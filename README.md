@@ -1,1 +1,1 @@
-# TSF-Task-1-Simple-Linear-Regressions
+This is my first task as a Data Science and Business Analytics Intern at The Spark Foundation. The task was supposed to predict the score if a student studies for 9.25 hours per dayusing supervised machine algorithm.Simple Linear Regression is used to build the prediction model the dataset involes 2 variabless that is hours and score. Data Can be found at http://bit.ly/w-data
